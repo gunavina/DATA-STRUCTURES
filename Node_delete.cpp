@@ -1,4 +1,4 @@
-//						TO DELETE A SPECIFIC NODE Greater Than X
+// deletion of a specific node that is greater than a certain number(be x) 
 
 #include<iostream>  
 using namespace std ;
